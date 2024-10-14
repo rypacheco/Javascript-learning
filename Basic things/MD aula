@@ -1,0 +1,36 @@
+## JAVASCRIPT
+
+é uma linguagem de programação que permiter implementar interatividade e funcionalidade nas páginas Web.
+
+* Se você clica em algum botão e algo acontece, isso é JAVASCRIPT
+
+* Éclient-side ( lado do usuário). Isso significa que o código é executado no navegador do usuárío 
+
+* Permite acessar e manipular os elementos HTML, interações do usuário e comunicação com servidores.
+
+
+## FLEXIBILIDADE
+
+Web 
+Desktop 
+Mobile 
+API
+ETC
+
+## Forma de conectar HTML com JS
+exemplo -> <script src="script.js"></script> 
+tag script 
+src 
+nome do arquivo.js
+
+## Comentarios com Javascript
+
+// comentarios simples //
+
+/*
+Comentarios de multiplas linhas
+*/
+
+## Sintaxe 
+
+Forma correta de escrever o codigo. 
