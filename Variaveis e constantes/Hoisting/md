@@ -1,0 +1,17 @@
+## Hoisting
+
+Hoisting (levantar ou içar) se refere ao comportamento do interpretador de mover as declarações de variáveis e funções para o topo do escopo em que foram definidas, antes mesmo da execução do código.
+(mesmo que as declarações de variáveis sejam movidas para o top do escopo, elas ainda precisam ser declaradas antes de serem utilziadas. Caso contrário, você receberá uma referência indefinida = undefined)
+
+## Hoisting de funções
+
+Todas as declarações de funções também são movidas para o topo do seu escopo. Isso significa que você pode chamar uma função antes mesmo de declará-la.
+
+Essa característica do JavaScript permite que você organize seu código de forma mais intuitiva, definindo as funções em qualquer ordem que desejar.
+
+// parentese vazio = sem valor
+// parente com x = opção valida ou correta.
+Global scope = const () let() var (x)
+function scope = const(x) let(x) var(x)
+block scope = const(x) let(x) var()
+can be reassigned (pode ser sobreescrita) = const() let(x) var(x)

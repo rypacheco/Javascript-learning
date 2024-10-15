@@ -1,0 +1,19 @@
+## ESCOPO
+
+é a região do código onde uma determinada variável é acessivel ou visivel.
+
+O Escopo deifine o contexto no qual uma variável pode ser referenciada e modoficiada
+
+Exemplo: Para utilizar um eletrodomestico eu preciso estar no comodo no qual ele fica, sofá = sala.
+
+## TIPOS DE ESCOPO
+
+* Global: Variáveis declaradas fora de qualquer função ou bloco de código (VAR)
+
+* Bloco: Acessíveis apenas dentro do boloco de código onde foram declaradas (let ou const)
+
+* Local (ou escopo de função): Variáveis declaradas dentro de uma função.
+
+Exemplo: A cidade São Paulo (bloco/local) pertence ao contexto Brasil (global.)
+
+## ## Atenção 
