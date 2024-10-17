@@ -1,0 +1,17 @@
+## tipos
+JavaScript é uma linguagem dinâmica com tipos dinâmicos. Isso significa que o tipo da variável é definida dinamicamente pelo tipo do valor atribuído (não é necessário declarar o tipo)
+
+além disso, é possivel reatribuir uma mesma váriavel com um tipo diferente.
+
+## Tipos primitivoa
+Estes sào os principais valores primitidos do Javascript: 
+String = Texto
+Number = número
+Boolean = valor verdadeiro ou falso (true/false)
+Null = conteudo da variavel vazio
+Undefined = váriavel que não tem valor 
+
+## Outros tipos
+
+object 
+Array
