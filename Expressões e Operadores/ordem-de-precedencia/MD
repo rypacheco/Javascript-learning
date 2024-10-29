@@ -1,0 +1,20 @@
+### ORDEM DE PRECEDÊNCIA
+- Quando uma expressão contém múltiplos operadores, na programação e em expressões matemáticas, a ordem de precedência define qual operação será realizada primeiro. (ela define qual operação vai ser realziada primeiro)
+
+Nivel 7 (alto) exponenciação -> **
+Nivel 6  Multiplicação -> *,/,//,%
+Nivel 5  adição -> +,-
+Nivel 4  Relacional -> ==,!=,<=,>=,>,<
+Nivel 3  Lógico -> not
+Nivel 2 Lógico -> and
+Nivel 1 (baixo) Lógico -> or
+
+exemplo => 2+3*4=? 
+3*4= 12
+2+12 = 14
+multiplicação antes da adição 
+
+(2+3)*4 = ? // Parentese para alterar a ordem de precedencia
+(2+3) = 5
+5*4 = 20
+
