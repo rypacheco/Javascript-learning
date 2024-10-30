@@ -1,0 +1,7 @@
+### Estrutura de Condição 
+- permite executar diferentes ações com base em uma condição(verdadeira ou falsa)
+- As estruturas de condição são utilizadas para a tomada de decisões, permitindo que o fluxo de execução seja direcionado com base em condições. (True ou False)
+
+Exemplo: A porta está aberta? True ou false? 
+Condição: A porta está aberta
+Resposta: True ou false?
