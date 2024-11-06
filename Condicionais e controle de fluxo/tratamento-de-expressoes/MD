@@ -1,0 +1,10 @@
+### EXCEÇÕES 
+- Uma exceção é uma condição ou evento imprevisto que ocorre durante o uso da aplicação que interrompe o fluxo normal de operações.
+- Essas situações inesperadas podem incluir errros, condições de falha ou eventosw que a aplicação não está preparada para lidar. 
+
+### EXEMPLO
+- Tentativa de abrir um arquivo que não existe ou falha na conexão com um banco de dados
+
+### Tratamento de Exceções 
+Try - Deu certo? (não) -> Catch (capturar o erro) -> Finally
+Try - deu certo? (sim) -> Finally
